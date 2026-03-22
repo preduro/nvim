@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Tested build on clean environment
 - Refactored module structure for clarity
+
+## 2026-03-23
+- Added type hints to helper functions
+- Checked for memory leaks in long-running path
