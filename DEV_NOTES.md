@@ -28,3 +28,7 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Updated dependencies to latest stable versions
 - Pinned dependency versions for reproducibility
+
+## 2026-03-30
+- Reviewed open issues, added labels
+- Added CONTRIBUTING.md stub
