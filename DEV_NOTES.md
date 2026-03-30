@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Resolved deprecation warnings
 - Removed unused variable declarations
+
+## 2026-03-30
+- Drafted initial implementation plan for v2
+- Updated dependencies to latest stable versions
+- Pinned dependency versions for reproducibility
