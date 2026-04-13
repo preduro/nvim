@@ -40,3 +40,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Drafted initial implementation plan for v2
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-13
+- Resolved TODO items from previous session
