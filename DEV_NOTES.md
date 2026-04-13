@@ -35,3 +35,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Updated CI cache strategy
+
+## 2026-04-13
+- Tidied up project structure
+- Drafted initial implementation plan for v2
+- Updated .gitignore to exclude build artifacts
